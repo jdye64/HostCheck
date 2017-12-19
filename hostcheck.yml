@@ -1,0 +1,6 @@
+applicationName: HostCheck
+
+server:
+  applicationConnectors:
+  - type: http
+    port: 7878
